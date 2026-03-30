@@ -21,12 +21,11 @@ The numerical energies are compared against the analytical solution:
 
 $$E_n = \frac{n^2 \pi^2 \hbar^2}{2mL^2}$$
 
-| n   | Numerical  | Analytical    | Error    |
-|-----|------------|---------------|----------|
- 1       4.934700       4.934802     0.0021%
- 2      19.737569      19.739209     0.0083%
- 3      44.404919      44.413220     0.0187%
-
+| n | Numerical | Analytical | Error |
+|---|-----------|------------|-------|
+| 1 | 4.934700 | 4.934802 | 0.0021% |
+| 2 | 19.737569 | 19.739209 | 0.0083% |
+| 3 | 44.404919 | 44.413220 | 0.0187% |
 ## Usage
 pip install -r requirements.txt
 python infinite_square_well.py
