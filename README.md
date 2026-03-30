@@ -44,3 +44,7 @@ python infinite_square_well.py
 - Builds the tridiagonal second-derivative matrix $D^2$
 - Solves via `numpy.linalg.eigh` (symmetric eigenvalue solver)
 - Normalizes eigenstates and compares to exact values
+  
+`requirements.txt`
+numpy
+matplotlib
