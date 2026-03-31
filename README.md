@@ -1,6 +1,6 @@
-# computational-physics
-Numerical simulations of physics problems using Python — quantum mechanics, classical mechanics, and more.
 # Infinite Square Well — Numerical Solution
+
+Numerical simulations of physics problems using Python — quantum mechanics, classical mechanics, and more.
 
 Solves the 1D time-independent Schrödinger equation for a particle in an
 infinite square well using the **finite difference method**.
